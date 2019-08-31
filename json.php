@@ -1,6 +1,6 @@
 <?php
 //	WordPress Son Konular Cache (json.json)
-//	13.05.2019 - zekihoca.net
+//	13.05.2019 - zekiegitim.com
 	
 $cfile = dirname (__FILE__) . '/json.json';
 	
